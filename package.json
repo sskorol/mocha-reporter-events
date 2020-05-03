@@ -1,0 +1,14 @@
+{
+  "name": "mocha-reporter-events",
+  "version": "1.0.0",
+  "description": "Mocha events issue",
+  "main": "CustomReporter.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sergey Korol",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
